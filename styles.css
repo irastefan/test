@@ -73,7 +73,7 @@ main {
     position: absolute;
     top: -16px;
     left: -7px;
-    background: url('/images/label-icon-blue.svg') 10px center no-repeat #D4EAFF;
+    background: url('images/label-icon-blue.svg') 10px center no-repeat #D4EAFF;
     background-size: 14px;
     font-weight: 600;
     font-size: 16px;
@@ -92,7 +92,7 @@ main {
     border-right: 7px solid #99CDFF;
 }
 .product__item-label.orange-label {
-    background-image: url('/images/label-icon.svg');
+    background-image: url('images/label-icon.svg');
     background-color: #FF5C00;
     color: #fff;
     background-size: 20px;
