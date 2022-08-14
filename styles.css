@@ -270,7 +270,7 @@ main {
 
 @media (max-width:1060px) { 
     main {
-        max-width: 672px;
+        max-width: 90%;
     }
     .button {
         font-size: 14px;
@@ -348,7 +348,7 @@ main {
     }
     .product__item-links > div {
         margin: 8px 50px 0px;
-        min-width: 445px;
+        min-width: calc(100% - 193px);
     }
     .product__item-description {
         padding-right: 25px;
